@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.barcodeqr.test" >
+4
+5    <uses-sdk
+5-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:11:5-15:69
+10        android:name="android.support.test.runner.AndroidJUnitRunner"
+10-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:11:22-83
+11        android:functionalTest="false"
+11-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:13:22-53
+13        android:label="Tests for com.azhar.barcodeqr"
+13-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:15:22-67
+14        android:targetPackage="com.azhar.barcodeqr" />
+14-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:12:22-65
+15
+16    <application android:debuggable="true" >
+16-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:7:5-9:19
+16-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:8:9-60
+17-->/home/fatku/PROJECK AS/GITHUB/Scan-QR-Code-Barcode-master/BarcodeQR/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4788435227272174909.xml:8:23-57
+18    </application>
+19
+20</manifest>
